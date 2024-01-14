@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    height: 5rem;
+    width: 100%;
+    img {
+        height: 4rem;
+        background-color: #FFF;
+    }
+    h1 {
+        flex: 1;
+        text-align: center;
+    }
+}
