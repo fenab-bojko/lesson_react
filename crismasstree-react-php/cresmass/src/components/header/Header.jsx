@@ -1,5 +1,5 @@
 import './Header.scss'
-import logo from '../../../public/tree.png'
+import logo from '/tree.png'
 
 export default function Header () {
     return(

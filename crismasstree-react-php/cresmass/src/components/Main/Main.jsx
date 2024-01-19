@@ -5,6 +5,7 @@ import action from '../../../action'
 export default function Main () {
     const [simbol, setSimbol] = useState ('')
     const [heigth, setHeigth] = useState ('')
+    
     return (
         <div className='main'>
             <modal>
